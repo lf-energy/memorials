@@ -46,6 +46,6 @@ I wrote to her before Christmas to make the point; LFEnergy's mission and value 
 Grateful to have known Shuli, albeit all too briefly. 
 Shuli Goodman made the world a better place and her inspiring work will live on.
 
+## Jonas van den Bogaard
 
-
-
+My first interaction with Shuli was in 2019 when I gave a first introduction to the Open Smart Grid Platform (OSGP) project, now known as the Grid eXchange Fabric (GXF) project. I still remember how passionate she was about her mission to make open source software part of the solution to decarbonize energy and help solve the challenges our planet is facing. When Alliander became a member of LF Energy, I was delighted to help support her mission and spread the word for LF Energy. It was always a pleasure and honor to be working with Shuli. Her relentless drive is the reason LF Energy has gotten to the level of success it has achieved today and is ready for the future. I'll miss her.
