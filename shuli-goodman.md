@@ -30,31 +30,17 @@ I did not have as many interactions with her as many others who have been with L
 
 Shuli was an inspiration with her passion and perseverance to make open source software part of the solution for the challenges facing our planet. I share this passion for the role of open source software and I was delighted to help spread the word for LF Energy and support the mission within EPRI. I continue to believe in the mission and direction of LF Energy. Shuli’s energy has left a legacy that it is our duty to build on. Thanks for everything Shuli.
 
-## Nico Rikken
+From Truman: I was introduced to Shuli Sept 6, 2018, by Pete Skala, Deputy Director of the California Public Utilities Commission's Energy Division, who described her as a "visionary who is swinging for the fences."  Pete framed  perfectly the fit in interests bw LFE and OS-C, saying we were "using very similar approaches (OS a la the LF-model and with their support) to accomplish similar ends (facilitate carbon reduction efforts) at two extremely different scales (i.e., at the electron level versus at the multi-trillion dollar pension fund level).  Despite this last bit, I can’t help but wonder if there are some synergies or opportunities to swap best practices betwixt your respective open source moonshots here." (Pete, Shuli and I share in common one of my closest friends, Jonathan Kaplan, whose first cousin Lucy had been Shuli's wife.)  Shuli immediately followed up, "I would love to talk to see if we can be of help - whether you want to go it on your own or whether the LF Energy would be a possible home (for all the various synergy and shared services opportunities)."  From that moment forward, Shuli was a constant source of inspiration to me, Gary Rahl, and other in the OS-C founding group, and then others in our community.  
 
-My first conversation with Shuli was in 2020 at the Open Source Bootcamp at Alliander in Duiven, right when my corporate Open Source journey started. The way she spoke a vision of Open Source helping the energy sector transition to a greener future made it clear to me she was the right person to lead the Linux Foundation Energy. She was always so friendly and easy to reach. For example I once had a bold idea to take part in a legislative consultation. She supported it, got a team together and we persisted and finally created a strong document. I'm still impressed by the amount of personal energy she put in something that was a bit of a moonshot. My impression of Shuli is that once she committed to something, she would see it through. One thing I'll remember in particular is how she was able to create a sense of urgency on climate change by taking her own risk and fear of  forest fires as a very personal example. This spoke to me to the point that I recited her fear to evoke a sense of urgency in others. All of this, the way she was as a person and fulfilled the role at LF Energy made Shuli somebody to look up to. She certainly inspired me and her memory will live on.
+She challenged us.  She was a force nature.  
 
-## Tony Shannon
+We talked about the fires, and I could feel her anxiety as the winds were blowing chaos and fear around Northern CA.  
 
-This world is made up of all sorts of people, each trying to make their own way in the world , for better or worse. 
-Every now and again we get to meet people who stand out from the crowd, who make an impression, an impact.
-It is only in recent months that I got to connect to Shuli and get to know her, all too briefly.
-In the few and brief encounters we had I quickly understood why LFEnergy has come to be the force that it is now.
-Leadership is a term bandied around a lot, often it is a label applied without being earned.
-In connecting with Shuli I quickly recognised a natural leader , a person who wanted to make the world a better place.
-With just a few words, her wisdom, her calm, her kindness , her intellect, her passion and her mission quickly came through.
-Her story in founding LF Energy and bringing it to the place it is at now, battling adversity as she did, is already an inspirational one.
-I don't know LF Energy all that well but in my dealings with the people involved and in connecting with Shuli, I see how she inspired it to get to the key force that it is today.
-Of course Shulis work with LFEnergy was not/is not done, but I believe Shuli, her work and her leadership have already made history in establishing LFEnergy.
-I wrote to her before Christmas to make the point; LFEnergy's mission and value may take time to be more widely understood and have the global impact it is destined for, but it will, its not a question of if, but when. 
-Grateful to have known Shuli, albeit all too briefly. 
-Shuli Goodman made the world a better place and her inspiring work will live on.
+We also shared, as we all do, our roots in the earth.  Great hippy energy!  We will forever be grateful to Shuli and look to be a good partner in stewarding what she brought into existence with her vision, knowledge, passion, and tenacity.  
 
-## Jonas van den Bogaard
+One of my favorite moments with her was when I got to meet Karen virtually.  There was a movement behind Shul as we talked in Zoom, and when I asked about it, up popped Karen!  It felt wonderful to be connected to Shuli and Karen in that way!  @Karen, our thoughts and prayers are with you.  Can we help in any way?  
 
-My first interaction with Shuli was in 2019 when I gave a first introduction to the Open Smart Grid Platform (OSGP) project, now known as the Grid eXchange Fabric (GXF) project. I still remember how passionate she was about her mission to make open source software part of the solution to decarbonize energy and help solve the challenges our planet is facing. When Alliander became a member of LF Energy, I was delighted to help support her mission and spread the word for LF Energy. It was always a pleasure and honor to be working with Shuli. Her relentless drive is the reason LF Energy has gotten to the level of success it has achieved today and is ready for the future. I'll miss her.
+I hope you are at peace Shuli.  I feel we will still be getting your help and encouragement as the journey continues. 
 
-## Gianluca Dianese
-
-Thank you Shuli for your leadership and powerful inspiration to all of us involved in trying to make our world a better place.
-You will always be in our memories and in our hearts!
+With my love and thanks,
+Truman
