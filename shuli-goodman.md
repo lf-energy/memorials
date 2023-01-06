@@ -58,3 +58,7 @@ My first interaction with Shuli was in 2019 when I gave a first introduction to 
 
 Thank you Shuli for your leadership and powerful inspiration to all of us involved in trying to make our world a better place.
 You will always be in our memories and in our hearts!
+
+## ben van 't ende
+
+I met Shuli in 2019 at the Alliander meeting just outside of Arnhem (NL). We enjoyed dinner in the evening with a few other participants. We had a lovely conversation about Buddhism, meditation and a few of her favourite authors. We stayed in touch after that. I really appreciated her leadership, because of the holistic approach and long-term vision. A compassionate way of thinking/leadership that we so dearly need to make this world a better place. 
