@@ -62,3 +62,7 @@ You will always be in our memories and in our hearts!
 ## McGee Young
 
 My favorite memory of Shuli is at a restaurant in Denver, where we were in town for the IEPEC conference. IEPEC is a conference for energy program evaluators. After spending the day listening in to panel presentations, Shuli joined a group of us at dinner. She was apoplectic. How on earth could an industry be so backwards? It was this rebellious spirit that I found so kindred, endearing, and compelling. Shuli was one of the first people I called when I wanted to start a new company focused on translating energy metrics into carbon metrics. Her wisdom and guidance helped ensure that collaborativeness prevailed wtihin a contentious subject area. Her first-principles focus ensured that we were asking the right questions without getting in the way of the work to be done. The world needs more pople like Shuli and we will miss her dearly. I will miss her dearly. 
+
+## Clyde Seepersad
+
+It is so sad to contemplate a world without Shuli. She was passionate but kind, visionary but practical, logical but sensitive. It falls to all of us to continue her life's work of decarbonizing the global energy market and ensuring we leave the plant in better shape for those to come after us. 
