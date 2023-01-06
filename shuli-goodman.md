@@ -25,3 +25,7 @@ I was again privileged last year when Shuli and John reached out to say LF Energ
 Shuli helped to onboard our FlexMeasures project into LF Energy. Her optimism and pragmatism was convincing and made the decision easy. It was always great talking to her, she was swift with her thoughts, very constructive for the mission, but also kept a personal tone and added her own distinct humor. She was truly a one-of-a-kind person and a leader who made you feel confident.
 
 I did not have as many interactions with her as many others who have been with LF Energy longer, so I'll keep this brief. There are not many people who after just a few meetings will leave such a distinct memory, and the feeling of loss.
+
+## Mark McGranaghan
+
+Shuli was an inspiration with her passion and perseverance to make open source software part of the solution for the challenges facing our planet. I share this passion for the role of open source software and I was delighted to help spread the word for LF Energy and support the mission within EPRI. I continue to believe in the mission and direction of LF Energy. Shuli’s energy has left a legacy that it is our duty to build on. Thanks for everything Shuli.
