@@ -30,6 +30,22 @@ I did not have as many interactions with her as many others who have been with L
 
 Shuli was an inspiration with her passion and perseverance to make open source software part of the solution for the challenges facing our planet. I share this passion for the role of open source software and I was delighted to help spread the word for LF Energy and support the mission within EPRI. I continue to believe in the mission and direction of LF Energy. Shuli’s energy has left a legacy that it is our duty to build on. Thanks for everything Shuli.
 
+## Tony Shannon
+
+This world is made up of all sorts of people, each trying to make their own way in the world , for better or worse. 
+Every now and again we get to meet people who stand out from the crowd, who make an impression, an impact.
+It is only in recent months that I got to connect to Shuli and get to know her, all too briefly.
+In the few and brief encounters we had I quickly understood why LFEnergy has come to be the force that it is now.
+Leadership is a term bandied around a lot, often it is a label applied without being earned.
+In connecting with Shuli I quickly recognised a natural leader , a person who wanted to make the world a better place.
+With just a few words, her wisdom, her calm, her kindness , her intellect, her passion and her mission quickly came through.
+Her story in founding LF Energy and bringing it to the place it is at now, battling adversity as she did, is already an inspirational one.
+I don't know LF Energy all that well but in my dealings with the people involved and in connecting with Shuli, I see how she inspired it to get to the key force that it is today.
+Of course Shulis work with LFEnergy was not/is not done, but I believe Shuli, her work and her leadership have already made history in establishing LFEnergy.
+I wrote to her before Christmas to make the point; LFEnergy's mission and value may take time to be more widely understood and have the global impact it is destined for, but it will, its not a question of if, but when. 
+Grateful to have known Shuli, albeit all too briefly. 
+Shuli Goodman made the world a better place and her inspiring work will live on.
+
 ## Jonas van den Bogaard
 
 My first interaction with Shuli was in 2019 when I gave a first introduction to the Open Smart Grid Platform (OSGP) project, now known as the Grid eXchange Fabric (GXF) project. I still remember how passionate she was about her mission to make open source software part of the solution to decarbonize energy and help solve the challenges our planet is facing. When Alliander became a member of LF Energy, I was delighted to help support her mission and spread the word for LF Energy. It was always a pleasure and honor to be working with Shuli. Her relentless drive is the reason LF Energy has gotten to the level of success it has achieved today and is ready for the future. I'll miss her.
