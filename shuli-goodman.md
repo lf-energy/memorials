@@ -30,6 +30,10 @@ I did not have as many interactions with her as many others who have been with L
 
 Shuli was an inspiration with her passion and perseverance to make open source software part of the solution for the challenges facing our planet. I share this passion for the role of open source software and I was delighted to help spread the word for LF Energy and support the mission within EPRI. I continue to believe in the mission and direction of LF Energy. Shuli’s energy has left a legacy that it is our duty to build on. Thanks for everything Shuli.
 
+## Nico Rikken
+
+My first conversation with Shuli was in 2020 at the Open Source Bootcamp at Alliander in Duiven, right when my corporate Open Source journey started. The way she spoke a vision of Open Source helping the energy sector transition to a greener future made it clear to me she was the right person to lead the Linux Foundation Energy. She was always so friendly and easy to reach. For example I once had a bold idea to take part in a legislative consultation. She supported it, got a team together and we persisted and finally created a strong document. I'm still impressed by the amount of personal energy she put in something that was a bit of a moonshot. My impression of Shuli is that once she committed to something, she would see it through. One thing I'll remember in particular is how she was able to create a sense of urgency on climate change by taking her own risk and fear of  forest fires as a very personal example. This spoke to me to the point that I recited her fear to evoke a sense of urgency in others. All of this, the way she was as a person and fulfilled the role at LF Energy made Shuli somebody to look up to. She certainly inspired me and her memory will live on.
+
 ## Tony Shannon
 
 This world is made up of all sorts of people, each trying to make their own way in the world , for better or worse. 
@@ -49,3 +53,8 @@ Shuli Goodman made the world a better place and her inspiring work will live on.
 ## Jonas van den Bogaard
 
 My first interaction with Shuli was in 2019 when I gave a first introduction to the Open Smart Grid Platform (OSGP) project, now known as the Grid eXchange Fabric (GXF) project. I still remember how passionate she was about her mission to make open source software part of the solution to decarbonize energy and help solve the challenges our planet is facing. When Alliander became a member of LF Energy, I was delighted to help support her mission and spread the word for LF Energy. It was always a pleasure and honor to be working with Shuli. Her relentless drive is the reason LF Energy has gotten to the level of success it has achieved today and is ready for the future. I'll miss her.
+
+## Gianluca Dianese
+
+Thank you Shuli for your leadership and powerful inspiration to all of us involved in trying to make our world a better place.
+You will always be in our memories and in our hearts!
