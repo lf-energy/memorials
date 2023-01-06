@@ -29,3 +29,7 @@ I did not have as many interactions with her as many others who have been with L
 ## Mark McGranaghan
 
 Shuli was an inspiration with her passion and perseverance to make open source software part of the solution for the challenges facing our planet. I share this passion for the role of open source software and I was delighted to help spread the word for LF Energy and support the mission within EPRI. I continue to believe in the mission and direction of LF Energy. Shuli’s energy has left a legacy that it is our duty to build on. Thanks for everything Shuli.
+
+## Jonas van den Bogaard
+
+My first interaction with Shuli was in 2019 when I gave a first introduction to the Open Smart Grid Platform (OSGP) project, now known as the Grid eXchange Fabric (GXF) project. I still remember how passionate she was about her mission to make open source software part of the solution to decarbonize energy and help solve the challenges our planet is facing. When Alliander became a member of LF Energy, I was delighted to help support her mission and spread the word for LF Energy. It was always a pleasure and honor to be working with Shuli. Her relentless drive is the reason LF Energy has gotten to the level of success it has achieved today and is ready for the future. I'll miss her.
