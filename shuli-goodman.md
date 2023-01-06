@@ -4,6 +4,16 @@ Dear community and friends,
 
 I thought it might be a good idea for us all to gather our thoughts, memories and stories of Shuli and what she meant to us in one place. Please add your contribution below via a [pull request](https://github.com/lf-energy/memorials/edit/main/shuli-goodman.md).
 
+## Guy Martin
+
+I was fortunate enough to get to know Shuli Goodman when LF Energy was but a glimmer in her eye and not even a fully-funded Linux Foundation project. Through mutual friends, we were introduced and she asked if I could come and provide a day-long consulting on how Open Source worked for some initial member company prospects, from communities to corporate interactions.  
+
+I jumped at the chance, because Shuli, as others have noted, was not only extremely persuasive, but her passion for decarbonization and making life on this planet better for everyone was infectious.  A ten minute conversation with Shuli could convince even the most hardened non-environmentalist that using open source techonolgies and community techniques was not only the answer to a better planet, but also a more efficient energy production and distribution business model. Over the next year or so, I would get an opportunity to present at the first LF Energy Summit and occasionally provide ad-hoc consulting for her work. I always considered it a great privilege to work with her.
+
+As others have noted, to know Shuli was to know someone who was kind, personable, multi-dimensional, and wholly involved in living life to the fullest.  In many in-person and ad-hoc conversations, we bonded on topics of open source, wildfire prevention (I was a volunteer with Cal Fire for 10 years, something we continually talked about) and social justice.  She could be funny & charming, but also deadly serious about why open source and LF Energy were critical to our world.
+
+Sadly, I hadn't had as much of an opportunity to work with her in the last year, but her passing leaves a hole in my life, and a strong desire to live a life more like hers - full of hope, passion and the spirit of helping each other. We'll miss you Shuli, but I'm confident that what you started will be a beacon to our world.
+
 ## John Mertic
 
 I've had the pleasure and honor on working with Shuli in growing the LF Energy Foundation over the past few years. Shuli was always passionate towards her vision of open source being the solution to the climate challenge in front of our society. But it was more than just professional passion; her passionate was personally drove her, and up to her last days she was constantly pushing forward towards that vision. Her relentless drive is the reason LF Energy has gotten to the level of success it has achieved and is well setup for the future.
