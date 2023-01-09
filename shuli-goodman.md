@@ -87,3 +87,8 @@ I think that is how she wanted to be remembered - planting seeds and curating id
 
 Dr. Shuli Goodman was a thoughtful leader who inspired, led and delivered an open source strategy for the energy transition by creating Linux Foundation Energy. She demonstrated how open collaboration is essential to our climate goals. One example that will stick with us is her passionate advocacy that the math involved in GHG emission measurements needs to be open and transparent. We, at Shell, started our interactions with Dr. Goodman around 2021 when we were starting to embark on the journey of open sourcing code developed in-house with the vision of accelerating energy transition. In Dr Goodman, we met someone who shares our ambition for scale and passion for execution. She was instrumental in shaping our emerging open source strategy & we are very grateful to her. Without her purpose driven leadership, perseverance, and talent - we would not be where we are today. Words are not enough to say how much we will miss her. Our thoughts are with the LFE team and with her family. May her soul rest in peace.
 
+## Sander Jansen
+
+I heard of the death of Shuli, and wish you all strength in these sad days. I know Shuli a passioned person going for a susataiable energy landscape. Her leaderschip did bring LF energy together and greated growth. We had some nice conversations in the past. My deepest condoleances her family and friends.
+
+
