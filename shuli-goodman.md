@@ -95,3 +95,9 @@ Dr. Shuli Goodman was a thoughtful leader who inspired, led and delivered an ope
 
 I heard of the death of Shuli, and wish you all strength in these sad days. I know Shuli a passioned person going for a susataiable energy landscape. Her leaderschip did bring LF energy together and greated growth. We had some nice conversations in the past. My deepest condoleances her family and friends.
 
+## Lucian Balea
+
+I remember back in 2018 when we were a few lone nuts, dreaming of an industry shift towards open source for the sake of the energy transition. Our vision was perceived as unachievable, sometimes scary, at least as something odd. Planning the first LF Energy Summit was quite erratic: plans were drafted and crossed out. Shuli admitted a little bit of anxiety: the purpose was so important that it had to be successful.
+Eventually the dream has become a strong reality thanks to Shuli’s leadership, perseverance and generosity. Shuli strove to make it not only a business-oriented community, but also and above all, a human adventure.
+From wildfires to covid, from political crises to war, the last few years have been tormented. Nevertheless the commitment to the mission grew.
+We have inherited the inspiration to steer through the storm. Thank you captain.
