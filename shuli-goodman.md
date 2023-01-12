@@ -112,3 +112,9 @@ She will be remembered as a fighter working for the common good and believing th
 I feel privileged to have known her and with Eloi Bail, and the entire Savoir-faire Linux team involved in those projects, we are committed to continuing her work within LF Energy Foundation and proving her right.
 
 Our thoughts go out to her family and her team at the LFEnergy.
+
+## Chris Aniszczyk
+
+I first met Shuli in 2018 when she asked me to present at a workshop and she personally spent a couple hours with me giving me a personal "Electrification Industry 101" tour. She was incredibly passionate bringing open source to the energy industry and did an incredible amount of work in bringing folks across disciplines and industries together to make this happen.
+
+She was a tour de force in decarbonizination adn bringing open source to the energy industry. You will be missed. Her passion will live on to benefit future generations in the work done in LFE and more, thank you!
