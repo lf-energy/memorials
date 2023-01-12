@@ -102,6 +102,16 @@ Eventually the dream has become a strong reality thanks to Shuli’s leadership,
 From wildfires to covid, from political crises to war, the last few years have been tormented. Nevertheless the commitment to the mission grew.
 We have inherited the inspiration to steer through the storm. Thank you captain.
 
+## Savoir-faire Linux (Christophe Villemer, Eloi Bail)
+
+We are heartbroken to learn the passing of Shuli Goodman, Ph.D. after her long battle with cancer. We last chatted mid-November after the annual LF Energy Foundation member meeting. She seemed to be doing better and was so brave hosting and chairing our meeting with her bare head. She joked about it saying that it was a bit like "coming out".
+Her introducing speech was a great message of hope, resilience and fighting through collaboration for a better future.
+
+She will be remembered as a fighter working for the common good and believing that the technology would be a major part of the solution to global climate change.
+
+I feel privileged to have known her and with Eloi Bail, and the entire Savoir-faire Linux team involved in those projects, we are committed to continuing her work within LF Energy Foundation and proving her right.
+
+Our thoughts go out to her family and her team at the LFEnergy.
 
 ## Chris Aniszczyk
 
