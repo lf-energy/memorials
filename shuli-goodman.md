@@ -101,3 +101,10 @@ I remember back in 2018 when we were a few lone nuts, dreaming of an industry sh
 Eventually the dream has become a strong reality thanks to Shuli’s leadership, perseverance and generosity. Shuli strove to make it not only a business-oriented community, but also and above all, a human adventure.
 From wildfires to covid, from political crises to war, the last few years have been tormented. Nevertheless the commitment to the mission grew.
 We have inherited the inspiration to steer through the storm. Thank you captain.
+
+
+## Chris Aniszczyk
+
+I first met Shuli in 2018 when she asked me to present at a workshop and she personally spent a couple hours with me giving me a personal "Electrification Industry 101" tour. She was incredibly passionate bringing open source to the energy industry and did an incredible amount of work in bringing folks across disciplines and industries together to make this happen.
+
+She was a tour de force in decarbonizination adn bringing open source to the energy industry. You will be missed. Her passion will live on to benefit future generations in the work done in LFE and more, thank you!
