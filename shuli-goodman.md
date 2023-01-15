@@ -118,3 +118,8 @@ Our thoughts go out to her family and her team at the LFEnergy.
 I first met Shuli in 2018 when she asked me to present at a workshop and she personally spent a couple hours with me giving me a personal "Electrification Industry 101" tour. She was incredibly passionate bringing open source to the energy industry and did an incredible amount of work in bringing folks across disciplines and industries together to make this happen.
 
 She was a tour de force in decarbonizination adn bringing open source to the energy industry. You will be missed. Her passion will live on to benefit future generations in the work done in LFE and more, thank you!
+
+## Daniel Roesler
+
+I've known Shuli since 2019, when we first collaborated on standards development in the fight against climate change. The entire time we've worked together, she showed nothing but genuine, passionate focus on improving the world, helping others, and organizing groups to come together to make an impact. I deeply appreciate all she has done for the climate tech community, and hold profound respect for the impact and legacy she has been able to instill in all of us. Shuli, you will be missed.
+
