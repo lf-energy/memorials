@@ -123,3 +123,18 @@ She was a tour de force in decarbonizination adn bringing open source to the ene
 
 I've known Shuli since 2019, when we first collaborated on standards development in the fight against climate change. The entire time we've worked together, she showed nothing but genuine, passionate focus on improving the world, helping others, and organizing groups to come together to make an impact. I deeply appreciate all she has done for the climate tech community, and hold profound respect for the impact and legacy she has been able to instill in all of us. Shuli, you will be missed.
 
+## Truman Semans
+I was introduced to Shuli Sept 6, 2018, by Pete Skala, Deputy Director of the California Public Utilities Commission's Energy Division, who described her as a "visionary who is swinging for the fences." Pete framed perfectly the fit in interests bw LFE and OS-C, saying we were "using very similar approaches (OS a la the LF-model and with their support) to accomplish similar ends (facilitate carbon reduction efforts) at two extremely different scales (i.e., at the electron level versus at the multi-trillion dollar pension fund level). Despite this last bit, I can’t help but wonder if there are some synergies or opportunities to swap best practices betwixt your respective open source moonshots here." (Pete, Shuli and I share in common one of my closest friends, Jonathan Kaplan, whose first cousin Lucy had been Shuli's wife.) Shuli immediately followed up, "I would love to talk to see if we can be of help - whether you want to go it on your own or whether the LF Energy would be a possible home (for all the various synergy and shared services opportunities)." From that moment forward, Shuli was a constant source of inspiration to me, Gary Rahl, and other in the OS-C founding group, and then others in our community.
+
+She challenged us. She was a force nature.
+
+We talked about the fires, and I could feel her anxiety as the winds were blowing chaos and fear around Northern CA. 
+
+We also shared, as we all do, our roots in the earth. Great hippy energy! We will forever be grateful to Shuli and look to be a good partner in stewarding what she brought into existence with her vision, knowledge, passion, and tenacity. 
+
+One of my favorite moments with her was when I got to meet Karen virtually. There was a movement behind Shul as we talked in Zoom, and when I asked about it, up popped Karen! It felt wonderful to be connected to Shuli and Karen in that way! @Karen, our thoughts and prayers are with you. Can we help in any way? 
+
+I hope you are at peace Shuli. I feel we will still be getting your help and encouragement as the journey continues.
+
+With my love and thanks,
+Truman
